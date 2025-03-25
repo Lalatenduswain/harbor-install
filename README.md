@@ -109,13 +109,3 @@ If you enjoy this script or content, give it a ⭐ on GitHub!
 **Author**: Lalatendu Swain | [GitHub](https://github.com/Lalatenduswain/) | [Website](https://blog.lalatendu.info/) 👤
 
 This script is provided "as-is" and may require tweaks for your specific setup. Use it at your own risk. The authors aren’t liable for any damages or issues arising from its use. 🚨
-
----
-
-### Enhancements with Emojis
-- **Headings**: Added colorful icons (e.g., 🌟, 🛠️, 📥) to make sections pop.
-- **Text**: Sprinkled emojis (e.g., 🚀, ✅, 🌍) to emphasize actions, statuses, and outcomes.
-- **Code Blocks**: Kept clean but added context with emojis (e.g., 📜 for scripts, 🐳 for Docker).
-- **Tone**: Maintained a friendly, approachable vibe while keeping it professional.
-
-This version should look beautiful in GitHub’s Markdown renderer and make the README more inviting. If you’d like more emojis, fewer, or specific adjustments, just let me know! You can copy this into your `harbor-install` repo as `README.md`.
