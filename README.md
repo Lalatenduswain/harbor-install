@@ -28,7 +28,7 @@ To run `harbor-install.sh`, ensure the following:
    Clone or download the script from the repository:
    ```bash
    git clone https://github.com/Lalatenduswain/harbor-install.git
-   cd harbor-install.sh
+   cd harbor-install
    ```
    Or manually save it as `harbor-install.sh`.
 
