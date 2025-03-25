@@ -54,7 +54,7 @@ To run `harbor-install.sh`, ensure the following:
   - Automatically starts Harbor services.
 - **GitHub Repository**:
   - **Username**: [Lalatenduswain](https://github.com/Lalatenduswain/)
-  - **Repository**: [harbor-install.sh](https://github.com/Lalatenduswain/harbor-install.sh)
+  - **Repository**: [harbor-install.sh](https://github.com/Lalatenduswain/harbor-install)
 - **Website**: [https://blog.lalatendu.info/](https://blog.lalatendu.info/)
 
 **Note**: No end-user license agreement is specified for this script. If you wish to add one (e.g., MIT, GPL), please modify the script and README accordingly.
