@@ -91,7 +91,7 @@ If you find this script useful and want to show your appreciation, you can donat
 
 ## Support or Contact
 Encountering issues? Don’t hesitate to submit an issue on our GitHub page:
-- [https://github.com/Lalatenduswain/harbor-install.sh/issues](https://github.com/Lalatenduswain/harbor-install.sh/issues)
+- [https://github.com/Lalatenduswain/harbor-install/issues](https://github.com/Lalatenduswain/harbor-install/issues)
 
 If you like this script or content, please give it a star on GitHub!
 
